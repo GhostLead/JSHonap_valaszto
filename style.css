@@ -1,4 +1,8 @@
 .cd{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+}
+
+p{
+    width: 10px;
 }
